@@ -1,0 +1,5 @@
+use("comments");
+
+db.post1.find()
+db.post2.find()
+db.post3.find()

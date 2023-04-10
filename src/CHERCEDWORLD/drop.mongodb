@@ -1,0 +1,5 @@
+use("comments");
+
+db.post1.drop();
+db.post2.drop();
+db.post3.drop();
